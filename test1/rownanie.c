@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+#include <math.h> //dla c++ nie potrzebno importowac 
 
 
 struct TrojmianKw {
